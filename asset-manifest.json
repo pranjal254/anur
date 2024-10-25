@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anur/static/css/main.ec88bcb1.css",
+    "main.js": "/anur/static/js/main.eb8ba24b.js",
+    "static/js/453.ed3810f9.chunk.js": "/anur/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/anur/index.html",
+    "main.ec88bcb1.css.map": "/anur/static/css/main.ec88bcb1.css.map",
+    "main.eb8ba24b.js.map": "/anur/static/js/main.eb8ba24b.js.map",
+    "453.ed3810f9.chunk.js.map": "/anur/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec88bcb1.css",
+    "static/js/main.eb8ba24b.js"
+  ]
+}
